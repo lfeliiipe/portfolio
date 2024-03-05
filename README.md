@@ -1,7 +1,8 @@
 # Portfólio 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![Captura de tela](https://github.com/lfeliiipe/portfolio/assets/53595200/decc81c9-5e08-4e58-aa3e-fb44cf537365)
+
 
 ## Ferramentas utilizadas:
 
@@ -12,11 +13,10 @@ Olá, Bem vindo ao meu projeto de portfólio.
 * Flex-box
 
 ## Descrição:
-Projeto de portfolio exemplo 
+Projeto de portfolio
 
 ## Feito por:
 
 ### Luiz Felipe Rodrigues
 
 ### Linkedin: [https://www.linkedin.com/in/lfelipersb](https://www.linkedin.com/in/lfelipersb/)
-
