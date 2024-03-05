@@ -18,5 +18,5 @@ Projeto de portfolio exemplo
 
 ### Luiz Felipe Rodrigues
 
-### Linkedin: (https://www.linkedin.com/in/lfelipersb/)https://www.linkedin.com/in/lfelipersb
+### Linkedin: [https://www.linkedin.com/in/lfelipersb](https://www.linkedin.com/in/lfelipersb/)
 
